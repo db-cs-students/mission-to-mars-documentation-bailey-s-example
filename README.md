@@ -11,7 +11,7 @@ To create the project we did lots of important things...
 
 ![Poor example of flow chart for project](https://d2slcw3kip6qmk.cloudfront.net/marketing/pages/chart/examples/flowchart-templates/simple-flowchart.svg)
 
-** Need to add drawing and photos of prototypes ]
+**Need to add drawing and photos of prototypes**
 
 ## Reflection
 
